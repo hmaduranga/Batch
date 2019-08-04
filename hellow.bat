@@ -1,3 +1,3 @@
 ECHO OFF
-ECHO Hello World hi
+ECHO Hello World hi gmue
 PAUSE
